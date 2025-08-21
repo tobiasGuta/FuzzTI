@@ -66,6 +66,13 @@ ${7*7}
          └─ fails → Not vulnerable
 
 ```
+
+# Example Video
+
+
+https://github.com/user-attachments/assets/637ebba6-8b16-4f15-bcc3-9595ae838fca
+
+
 Disclaimer
 ----------
 
